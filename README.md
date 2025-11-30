@@ -1,2 +1,2 @@
 # Pocket-Studios-MidtermProject
-Midterm project made for computer fundamentals.
+Website made for midterm project made for computer fundamentals.
